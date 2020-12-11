@@ -2,7 +2,9 @@ import React from "react";
 
 function Posts(){
     return(
-        <h1>All posts page</h1>
+        <div className="container">
+            <h1>All posts page</h1>
+        </div>
     )
 }
 

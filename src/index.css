@@ -1,1 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;600;700&display=swap");
+
+body {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.header {
+    background-color: #ED6A5A;
+}
+
+.navbar .navbar__link{
+    padding: 3px 6px;
+    color: #fff;
+    text-decoration: none;
+}
